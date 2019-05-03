@@ -1,0 +1,14 @@
+
+GO TO GOOGLE-FONTS AND SELECT A FONT
+	https://fonts.google.com
+
+
+Z.B: Roboto Condensed
+Embed Font
+To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document. 
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"> 
+
+
+Specify in CSS
+Use the following CSS rules to specify these families: 
+	font-family: 'Roboto Condensed', sans-serif;
